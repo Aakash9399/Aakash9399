@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer aspirant</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113289086/204075710-cbeb4316-4736-4788-bcea-128ba755ff58.gif">
 
-- 👨‍💻 All of my projects are available at [https://bucolic-lokum-5af399.netlify.app/](https://bucolic-lokum-5af399.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aakashpalliwar-portfolio.netlify.app/](https://aakashpalliwar-portfolio.netlify.app/)
 
 - 📫 How to reach me **akashpalliwar79@gmail.com**
 
